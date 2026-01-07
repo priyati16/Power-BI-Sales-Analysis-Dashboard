@@ -1,7 +1,7 @@
 # Power BI Sales Analysis Dashboard
 ## Dashboard
    <p align="center">
-  <img src="screenshots/dashboard.png" width="800">
+  <img src="https://github.com/priyati16/Power-BI-Sales-Analysis-Dashboard/blob/main/Power%20BI%20Sales%20Analysis%20Dashboard.png" width="800">
   </p>
 
 ## Project Overview
