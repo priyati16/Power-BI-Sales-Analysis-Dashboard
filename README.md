@@ -1,4 +1,8 @@
 # Power BI Sales Analysis Dashboard
+## Dashboard
+   <p align="center">
+  <img src="screenshots/dashboard.png" width="800">
+  </p>
 
 ## Project Overview
 This project focuses on end-to-end sales data analysis using Power BI to derive meaningful business insights related to revenue, customer behavior, product performance, and regional trends. The dashboard helps stakeholders monitor key metrics and make data-driven decisions through interactive visualizations.
@@ -32,8 +36,3 @@ This project demonstrates the complete data analytics workflow, from raw data to
 Author
 Priya Choubey
 Aspiring Data Analyst with skills in Power BI, SQL, Excel, and Data Visualization
-
-
-Customize it for a specific job role
-
-Just tell me 😊
